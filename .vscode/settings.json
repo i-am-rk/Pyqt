@@ -1,0 +1,4 @@
+{"command-runner.commands": {
+    "Run": "~/Python-Envs/python_3.6/bin/python ${file}"
+    }
+}
