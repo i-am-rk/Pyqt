@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>bug.png</file>
+    <file>minus.png</file>
+    <file>plus.png</file>
+  </qresource>
+</RCC>
